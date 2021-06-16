@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dalusty\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dalusty\\.nuget\\packages"
+    ]
+  }
+}

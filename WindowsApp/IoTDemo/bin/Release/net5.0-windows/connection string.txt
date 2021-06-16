@@ -1,0 +1,1 @@
+HostName=iotdemolusty.azure-devices.net;DeviceId=Demo1;SharedAccessKey=5xTo/eIqz2lz3itjvTEdgSV7MnkKsQRa+lH4HHHeeSA=
